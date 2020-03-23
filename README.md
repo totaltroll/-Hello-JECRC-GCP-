@@ -10,3 +10,5 @@ Click App Engine Admin API.
 
 ### Let's go to power shell
 *go via repos step by step
+
+Copyright to Google 2018 LLC
