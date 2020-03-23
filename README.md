@@ -1,2 +1,2 @@
-# -Hello-JECRC-GCP-8080-
+# -Hello-JECRC-GCP-
 A GCP fundamental application for showing a web text preview
