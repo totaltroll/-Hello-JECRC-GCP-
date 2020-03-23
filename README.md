@@ -9,6 +9,7 @@ Type "App Engine Admin API" in search box.
 Click App Engine Admin API.
 
 ### Let's go to power shell
-*go via repos step by step
+1. Refer Hello world app.md
+2. Go change the app
 
 Copyright to Google 2018 LLC
