@@ -9,7 +9,8 @@ Type "App Engine Admin API" in search box.
 Click App Engine Admin API.
 
 ### Let's go to power shell
-1. Refer Hello world app.md
-2. Go change the app
+1. Refer > Hello world app.md
+2. Refer > change the app
+3. Refer > deploy
 
 Copyright to Google 2018 LLC
